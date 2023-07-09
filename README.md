@@ -1,1 +1,1 @@
-Curs
+Curso de Cypress.
